@@ -1,1 +1,1 @@
-# CVJHU
+# Computer Vision Final Project
